@@ -20,6 +20,7 @@
 ---
 
 ## 🧮 Visitor Count
-You are my ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Abhay-lostfromlight&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+You are my <img src="https://api.countapi.xyz/hit/Abhay-lostfromlight.github.io/visits?style=plastic" alt="Visitor Count">
+
 🥰
 

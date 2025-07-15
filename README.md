@@ -17,11 +17,5 @@
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-lostfromlight&theme=tokyonight)
 
----
 
-## 🧮 Visitor Count
-You are my ![Visitors](https://img.shields.io/badge/Visitors-1000-blue?style=flat-square&logo=github)
-
-
-🥰
 

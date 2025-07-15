@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Sunless
 
-- 🔭 I’m currently working on something awesome.
-- 🌱 I’m currently learning new technologies.
-- 📫 How to reach me: your.email@example.com
+- I’m currently working on something awesome.
+- I’m currently learning new technologies.
+- I like Ai and Ml.
 
 ---
 

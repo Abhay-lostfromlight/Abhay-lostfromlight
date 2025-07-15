@@ -20,7 +20,8 @@
 ---
 
 ## 🧮 Visitor Count
-You are my <img src="https://api.countapi.xyz/hit/Abhay-lostfromlight.github.io/visits?style=plastic" alt="Visitor Count">
+You are my ![Visitors](https://img.shields.io/badge/Visitors-1000-blue?style=flat-square&logo=github)
+
 
 🥰
 

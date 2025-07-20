@@ -2,7 +2,6 @@
 
 - I’m currently working on something awesome.
 - I’m currently learning Java.
-- I like Ai and Ml.
 - You can reach out to me on X(twitter): @therealsweabhay
 
 
